@@ -1,5 +1,5 @@
 class Fruit {
-  def methodChanged() = {
+  def method() = {
     
     val bla = 123
 
