@@ -1,9 +1,14 @@
-val bla = 123
+class Fruit {
+  def method() = {
+    
+    val bla = 123
 
-val pa = 34
+    val pa = 34
 
-val ca = bla + pa
+    val ca = bla + pa
 
-var k = 8
+    var k = 8
 
-val m = "yes"
+    val m = "yes"
+  }
+}
