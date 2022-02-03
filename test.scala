@@ -1,4 +1,7 @@
 class Fruit {
+  
+  var im_a_var = "such var"
+  
   def method() = {
     
     val bla = 123
